@@ -5,7 +5,6 @@
 	<img src="https://i.postimg.cc/WzND5ykh/Maintenance-as-a-Service.jpg" />
 </p>
 
-That's all, our lnk is ready, and everything that I think further is intuitive.
 Link to youtube: [www.youtube.com](https://youtu.be/geHnFadbXSc)
 
 -------
